@@ -16,6 +16,7 @@ Creating the Ensemble model reduces the variance of the models. We identify the 
 
 # Note
 For the full report you can click here - <a href='https://github.com/karanashar/People-Analytics-IST707-Project/blob/main/Report.docx'> Report </a>
+For the Jupyter notebook you can click here - < a href='https://github.com/karanashar/People-Analytics-IST707-Project/blob/main/Project%20Final.ipynb'> Notebook </a>
  
 
 
